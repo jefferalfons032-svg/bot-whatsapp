@@ -1,0 +1,11 @@
+
+venv/
+.venv/
+whatsapp_session/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
